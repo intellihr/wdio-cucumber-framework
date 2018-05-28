@@ -94,5 +94,8 @@
     "Sameer Balasubrahmanyam <bs.sameer1@gmail.com>",
     "Marcel Hoyer <mhoyer@pixelplastic.de>",
     "Manuel Alabor <manuel@alabor.me>"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
